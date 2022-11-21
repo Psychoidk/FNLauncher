@@ -1,0 +1,10 @@
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\bin\Debug\FNLauncher.exe.config
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\bin\Debug\FNLauncher.exe
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\bin\Debug\FNLauncher.pdb
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\obj\Debug\FNLauncher.csproj.AssemblyReference.cache
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\obj\Debug\FNLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\obj\Debug\FNLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\obj\Debug\FNLauncher.csproj.CopyComplete
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\obj\Debug\FNLauncher.exe
+C:\Users\Minec\source\repos\FNLauncher\FNLauncher\obj\Debug\FNLauncher.pdb

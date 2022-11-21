@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lcOA29nMZzSu95Loxk84P7xmn3lpc+twvwbe4w8a4JWF46ltsyvdFXBr1yim+VDJH9t4FLvH5o8djiuxNN5aow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Minec\\source\\repos\\FNLauncher\\FNLauncher\\FNLauncher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Minec\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
